@@ -3,7 +3,7 @@ import alpr from '../assets/alpr.jpg'
 import entryway from '../assets/EntryWay.png'
 import invoice from '../assets/invoice.jpg'
 import googlesupa from '../assets/googleApi.jpeg'
-
+import secure_login from '../assets/secure_login.jpeg'
 
 const Project = () => {
 
@@ -16,7 +16,7 @@ const Project = () => {
     {
       id:2,
       src: alpr,
-      url:"https://github.com/khaizarkanchwala/ALPR-System"
+      url:"https://github.com/khaizarkanchwala/alpr"
     },
     {
       id:3,
@@ -27,6 +27,11 @@ const Project = () => {
       id:4,
       src: googlesupa,
       url:"https://github.com/khaizarkanchwala/Google-Calendar-Integration-SupaBase"
+    },
+    {
+      id:5,
+      src: secure_login,
+      url:"https://github.com/khaizarkanchwala/Secure_Login_Register"
     },
   ]
 
