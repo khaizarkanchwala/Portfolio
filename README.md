@@ -1,5 +1,5 @@
 # Checkout
-##[https://khaizarkanchwala.netlify.app/]
+## [https://khaizarkanchwala.netlify.app/]
 
 # Getting Started with Create React App
 
