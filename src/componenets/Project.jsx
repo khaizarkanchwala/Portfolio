@@ -17,7 +17,7 @@ const Project = () => {
     {
       id:2,
       src: alpr,
-      url:"https://github.com/khaizarkanchwala/alpr",
+      url:"https://github.com/khaizarkanchwala/ALPR_System",
       title:"Challan On Click"
     },
     {
