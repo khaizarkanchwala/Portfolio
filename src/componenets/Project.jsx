@@ -4,7 +4,7 @@ import entryway from '../assets/EntryWay.png'
 import invoice from '../assets/invoice.jpg'
 import googlesupa from '../assets/googleApi.jpeg'
 import secure_login from '../assets/secure_login.jpeg'
-
+import llama from '../assets/llama-2.png'
 const Project = () => {
 
   const projects=[
@@ -37,6 +37,12 @@ const Project = () => {
       src: secure_login,
       url:"https://github.com/khaizarkanchwala/Secure_Login_Register",
       title:"Secure Login System"
+    },
+    {
+      id:6,
+      src: llama,
+      url:"https://github.com/khaizarkanchwala/LLama-2-PDF-summarizer-QA",
+      title:"PDF summarizer & QA Llama-2"
     },
   ]
 
