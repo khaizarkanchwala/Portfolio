@@ -40,7 +40,7 @@ const SocialLinks = () => {
                     Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href:'/khaizar_kanchwala_resume.pdf',
+            href:'/Khaizar_Kanchwala_resume.pdf',
             style:'rounded-br-md',
             download:true,
         }
